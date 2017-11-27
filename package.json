@@ -1,0 +1,16 @@
+{
+  "name": "resmi-gazete-botu",
+  "version": "1.0.0",
+  "description": "Guncel mevzuati twitter uzerinden paylasan resmi gazete botu.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "phantom": "^4.0.9",
+    "twitter": "^1.7.1"
+  }
+}
